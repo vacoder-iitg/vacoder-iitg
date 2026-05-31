@@ -1,5 +1,9 @@
 ## Hi there 👋
+<h3 align="center">♟️ Welcome to my profile! ♟️</h3>
 
+<div align="center">
+  <img src="https://link-to-your-chess-animation.gif" alt="Chess Animation" width="400"/>
+</div>
 <!--
 **vacoder-iitg/vacoder-iitg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
