@@ -1,14 +1,12 @@
-# Hi there, I'm Vishwas Aditya Chauhan! 👋
+# Hi there, I'm Vishwas Aditya Chauhan! 
 
 ---
 
-### ♟️ Algorithmic Chess Pathfinder
-*Visualizing time complexity and movement vectors. Click the board below to launch the live interactive simulator!*
 
 <div align="center">
-  <a href="https://link-to-your-deployed-app.vercel.app">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzM2QzM2QzM2QzM2QzM2QzM2QzM2QzM2QzM2QzM2QzM2QzJmN0PWc/3o7btQ0NEjjW2RNYw8/giphy.gif" alt="Interactive Chess Pathfinder Preview" width="500"/>
-  </a>
+
+[![Interactive Chess Pathfinder Preview](https://upload.wikimedia.org/wikipedia/commons/d/d7/Chess_board_opening_giuoco_piano.gif)](https://github.com/vacoder-iitg)
+
 </div>
 
 ---
@@ -16,9 +14,9 @@
 ### 👨‍💻 About Me
 
 * 🎓 Currently pursuing my B.Tech at IIT Guwahati.
-* 🤖 Deeply interested in ML model interpretability, utilizing Optuna and SHAP.
+* 🤖 Deeply interested in ML model interpretability and applying it to real world problems
 * ⚙️ Spending my time solving algorithmic programming questions and analyzing time complexities.
-* ♟️ In my free time, I play chess (usually grinding the London System or Caro-Kann).
+* ♟️ In my free time, I play chess a lot.
 
 ---
 
