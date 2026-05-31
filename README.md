@@ -1,9 +1,9 @@
 # Hi there, I'm Vishwas Aditya Chauhan! 👋
 
 <div align="center">
-  <!-- Dynamic Typing Animation -->
+  <!-- Terminal Crash & Recover Animation -->
   <a href="https://github.com/vacoder-iitg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=27C93F&center=true&vCenter=true&width=600&lines=B.Tech+Chemical+Engineering+%40+IITG;Competitive+Programmer+(C%2B%2B);Full-Stack+Developer+(MERN+%7C+Next.js);Machine+Learning+(XGBoost+%7C+SHAP)" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=39FF14&background=0D1117&center=false&vCenter=true&width=700&height=80&lines=vacoder%40iitg%3A~%24+rm+-rf+%2F%2A;%5BFATAL%5D+Kernel+Panic+-+Deleting+root...;Initiating+FAIL+SAFE+protocol...;Restoring+C%2B%2B+%26+XGBoost+modules...;Welcome+to+Vishwas's+Profile!" alt="Terminal Crash Animation" />
   </a>
 </div>
 
