@@ -14,13 +14,11 @@
 ### 📈 Live GitHub Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vacoder-iitg&bg_color=0d1117&color=27c93f&line=27c93f&point=ffffff&area=true&hide_border=true&custom_title=Recent%20Contributions">
-    
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vacoder-iitg&bg_color=ffffff&color=0366d6&line=0366d6&point=24292e&area=true&hide_border=true&custom_title=Recent%20Contributions">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vacoder-iitg&bg_color=0d1117&color=27c93f&line=27c93f&point=ffffff&area=true&hide_border=true&custom_title=Recent%20Contributions">
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vacoder-iitg&bg_color=ffffff&color=0366d6&line=0366d6&point=24292e&area=true&hide_border=true&custom_title=Recent%20Contributions">
+</picture>
 </div>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
