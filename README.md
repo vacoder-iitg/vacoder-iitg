@@ -1,24 +1,32 @@
-# Hi there, I'm Vishwas Aditya Chauhan! 👋
+# Hi there, I'm Vishwas Aditya Chauhan!
+
+### Code Sweeper: Avoid the Segfaults
+*Clear the grid without hitting a Segmentation Fault [ERR]. Click the [ ? ] buttons to reveal memory blocks.*
 
 <div align="center">
-  <!-- Terminal Crash & Recover Animation -->
-  <a href="https://github.com/vacoder-iitg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=39FF14&background=0D1117&center=false&vCenter=true&width=700&height=80&lines=vacoder%40iitg%3A~%24+rm+-rf+%2F%2A;%5BFATAL%5D+Kernel+Panic+-+Deleting+root...;Initiating+FAIL+SAFE+protocol...;Restoring+C%2B%2B+%26+XGBoost+modules...;Welcome+to+Vishwas's+Profile!" alt="Terminal Crash Animation" />
-  </a>
+
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;2&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>ERR</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> |
+| <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>ERR</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;2&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> |
+| <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> |
+| <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> |
+| <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>ERR</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> |
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-* 🎓 Currently pursuing my B.Tech at IIT Guwahati.
-* 🤖 Deeply interested in ML model interpretability and applying it to the real world.
-* ⚙️ Spending my time solving algorithmic programming questions.
-* ♟️ In free time I also play chess a lot
+* Currently pursuing my B.Tech at IIT Guwahati.
+* Deeply interested in ML model interpretability and applying it to the real world.
+* Spending my time solving algorithmic programming questions.
+* In my free time, I play chess (often a steady grind with the London System or Caro-Kann).
 
 ---
 
-### 📈 Live GitHub Activity
+### Live GitHub Activity
 
 *This graph automatically updates every time you push code, drawing your commit history dynamically!*
 
@@ -31,7 +39,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Languages:** C++, JavaScript, Python, MATLAB  
 **Frontend:** React, Next.js, HTML5, CSS3  
