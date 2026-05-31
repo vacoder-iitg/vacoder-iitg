@@ -1,49 +1,53 @@
 # Hi there, I'm Vishwas Aditya Chauhan! 👋
 
+### 👨‍💻 About Me
+
+* 🎓 B.Tech Chemical Engineering student at IIT Guwahati.
+* 🤖 Machine Learning enthusiast focusing on model training and connecting with it real world.
+* ⚙️ Passionate about competitive programming in C++, numerical analysis, and exploring complex algorithms.
+* ♟️ When I'm not coding, I'm likely playing a steady grind on the chessboard with the London System or Caro-Kann.
+
 ---
 
-### 💡 The Server Room
-*It's completely dark in here, but something is moving. Toggle the switch!*
+### 🧩 Daily Chess Puzzle
+*Test your tactical vision! Evaluate the board and click the dropdowns below to make your move.*
 
-<details>
-<summary>
-  <h2>🐾 <code>[ 🔴 SWITCH: OFF ]</code> <em>*Scratch, scratch...* Click to turn on the lights!</em></h2>
-</summary>
+<div align="center">
+  <h2><strong>White to Move - Mate in 1</strong></h2>
+  <!-- Using a reliable static FEN image renderer -->
+  <img src="https://www.chess.com/dynboard?fen=6k1/5ppp/8/8/8/8/5PPP/4R1K1%20w%20-%20-%200%201&board=green&piece=neo&size=3" alt="Chess Puzzle: Mate in 1" width="350"/>
+</div>
 
 <br>
 
-<div align="center">
-  <h2>💡 <code>[ 🟢 SWITCH: ON ]</code> *CLICK!*</h2>
-  <!-- The Octocat caught in the act! -->
-  <img src="https://octodex.github.com/images/robotocat.png" alt="Robotocat caught in the lights" width="250"/>
-  <br><br>
-  <em>Busted! The Octocat was just rewiring the backend. Welcome to the mainframe!</em>
-  <br><br>
-  
-  ### 📂 System Diagnostics & Developer Intel
-  
-  | Core Modules | Specifications |
-  | :--- | :--- |
-  | 🎓 **Alias** | Vishwas Aditya Chauhan |
-  | 🏛️ **Mainframe** | IIT Guwahati |
-  | 💻 **Web Stack** | MERN, Next.js, PostgreSQL |
-  | 🤖 **AI Engine** | XGBoost, SHAP, Optuna |
-  | ⚡ **Algorithms** | C++, MATLAB |
-  | ♟️ **Strategy** | Chess (London System, Caro-Kann) |
+<details>
+<summary> <strong>Play Move: h3</strong></summary>
+<br>
+<em>Incorrect.</em> While creating "luft" (breathing room) for your King is a solid defensive habit to avoid being mated yourself, you missed an immediate forced win! Black will respond with <code>h6</code> and escape the threat.
+<br><br>
+</details>
 
-  > *"If I'm not bringing down time complexity, I'm probably automating my chess PGN analysis."*
-</div>
+<details>
+<summary> <strong>Play Move: Re8#</strong></summary>
+<br>
+<strong>🏆 Correct! CHECKMATE!</strong> 
+<br><br>
+This is a classic "Back-Rank Mate". Black's own pawns on f7, g7, and h7 trap their King on the 8th rank. By swinging the Rook to e8, you deliver an undefendable fatal blow. Rating +15!
+<br><br>
+</details>
 
+<details>
+<summary> <strong>Play Move: Kf1</strong></summary>
+<br>
+<em> Incorrect.</em> Centralizing the King is an excellent strategy for a prolonged endgame, but there is a much faster way to finish this game right now! Look at Black's weaknesses.
+<br><br>
 </details>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-[![Vishwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vacoder-iitg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/vacoder-iitg)
-    
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vacoder-iitg&layout=compact&theme=tokyonight)](https://github.com/vacoder-iitg)
-
-</div>
+**Languages:** C++, JavaScript, Python, MATLAB  
+**Frontend:** React, Next.js, HTML5, CSS3  
+**Backend & Database:** Node.js, Express, MongoDB, PostgreSQL  
+**Machine Learning:** XGBoost, SHAP, Optuna, Jupyter
