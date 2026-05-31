@@ -1,8 +1,11 @@
 # Hi there, I'm Vishwas Aditya Chauhan! 👋
 
 <div align="center">
-  <!-- This links to the animation file you just created in your own repo -->
-  <img src="animation.svg" alt="Animated Terminal">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vacoder-iitg/vacoder-iitg/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vacoder-iitg/vacoder-iitg/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vacoder-iitg/vacoder-iitg/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ### 👨‍💻 About Me
@@ -11,41 +14,40 @@
 * 💻 Full-stack developer building robust applications using the MERN stack, Next.js, and PostgreSQL.
 * 🤖 Machine Learning enthusiast with a focus on model training and interpretability using XGBoost, SHAP, and Optuna.
 * ⚙️ Passionate about competitive programming in C++, numerical analysis, and exploring complex algorithms.
+* ♟️ Chess enthusiast favoring a steady grind with the London System or Caro-Kann.
 
 ---
 
-### 🎮 Mini-Game: The Logic Labyrinth
-*No JavaScript, no third-party servers! Click the dropdowns to navigate the maze.*
+### 🎮 Mini-Game: The Deployment Dilemma
+*Click the dropdowns to navigate the scenario!*
 
 <details>
 <summary>🚪 <strong>Enter the Challenge</strong></summary>
 <br>
-You are in the middle of a tight time-complexity contest. Your C++ solution just threw a <code>Time Limit Exceeded (TLE)</code> on Test Case 12. You have 5 minutes left. What is your move?
+You have successfully trained a high-accuracy XGBoost model to predict at-risk students for the new faculty dashboard. However, the faculty is refusing to use it. They say, "We don't trust a black box. We need to know *why* a student is flagged." You have one day to fix the dashboard before the project fails. What do you do?
 
 <details>
-<summary>👉 Option A: Change all `int` to `long long` and hope for the best.</summary>
+<summary>👉 Option A: Scrap XGBoost and train a simple Linear Regression model instead.</summary>
 <br>
-The compiler laughs. It wasn't an overflow issue; your nested loops are running at $O(N^2)$ on an array of $10^5$ elements. The clock strikes zero. 
+The model is now perfectly interpretable! Unfortunately, the accuracy plummets. The faculty understands the predictions, but the predictions are mostly wrong. The project is shelved.
 <br><br>
 <strong>GAME OVER. ❌</strong>
 </details>
 
 <details>
-<summary>👉 Option B: Strip `std::endl` and add `ios_base::sync_with_stdio(false);`.</summary>
+<summary>👉 Option B: Run intensive hyperparameter tuning using Optuna to increase accuracy.</summary>
 <br>
-A wise optimization, but alas! Your core algorithm is still brute force. You speed up the failure, but it's still a failure. 
+Your model is now 2% more accurate! You present the new metrics to the faculty. They stare at you blankly and repeat, "But *why* is the student flagged?" You missed the core requirement.
 <br><br>
 <strong>GAME OVER. ❌</strong>
 </details>
 
 <details>
-<summary>👉 Option C: Refactor the nested loops into a Binary Search approach.</summary>
+<summary>👉 Option C: Integrate SHAP (SHapley Additive exPlanations) summary plots into the React frontend.</summary>
 <br>
-You drop the complexity from $O(N^2)$ to $O(N \log N)$. You hit submit... 
+Brilliant! The dashboard now displays exactly which features (like attendance or test scores) are pushing the model's prediction for each individual student. The faculty loves the transparency and immediately adopts the system.
 <br><br>
-<code>Accepted (0.015s)</code>
-<br><br>
-Your rating jumps to 1234. <strong>YOU WIN! 🏆</strong>
+<strong>YOU WIN! 🏆</strong>
 </details>
 
 </details>
