@@ -1,34 +1,28 @@
-# Hi there, I'm Vishwas Aditya Chauhan!
+# Hi there, I'm Vishwas Aditya Chauhan! 👋
 
-### Code Sweeper: Avoid the Segfaults
-*Clear the grid without hitting a Segmentation Fault [ERR]. Click the [ ? ] buttons to reveal memory blocks.*
+---
+
+### ♟️ Algorithmic Chess Pathfinder
+*Visualizing time complexity and movement vectors. Click the board below to launch the live interactive simulator!*
 
 <div align="center">
-
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;2&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>ERR</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> |
-| <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>ERR</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;2&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> |
-| <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> |
-| <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> |
-| <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;-&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>ERR</kbd></details> | <details><summary><kbd>&nbsp;?&nbsp;</kbd></summary><kbd>&nbsp;1&nbsp;</kbd></details> |
-
+  <a href="https://link-to-your-deployed-app.vercel.app">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzM2QzM2QzM2QzM2QzM2QzM2QzM2QzM2QzM2QzM2QzM2QzJmN0PWc/3o7btQ0NEjjW2RNYw8/giphy.gif" alt="Interactive Chess Pathfinder Preview" width="500"/>
+  </a>
 </div>
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-* Currently pursuing my B.Tech at IIT Guwahati.
-* Deeply interested in ML model interpretability and applying it to the real world.
-* Spending my time solving algorithmic programming questions.
-* In my free time, I play chess (often a steady grind with the London System or Caro-Kann).
+* 🎓 Currently pursuing my B.Tech at IIT Guwahati.
+* 🤖 Deeply interested in ML model interpretability, utilizing Optuna and SHAP.
+* ⚙️ Spending my time solving algorithmic programming questions and analyzing time complexities.
+* ♟️ In my free time, I play chess (usually grinding the London System or Caro-Kann).
 
 ---
 
-### Live GitHub Activity
-
-*This graph automatically updates every time you push code, drawing your commit history dynamically!*
+### 📈 Live GitHub Activity
 
 <div align="center">
   <picture>
@@ -39,7 +33,7 @@
 
 ---
 
-### Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 **Languages:** C++, JavaScript, Python, MATLAB  
 **Frontend:** React, Next.js, HTML5, CSS3  
