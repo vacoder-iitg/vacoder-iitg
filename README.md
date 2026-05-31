@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Currently pursuing my B.Tech in Chemical Engineering at IIT Guwahati.
+* 🎓 Currently pursuing my B.Tech at IIT Guwahati.
 * 🤖 Deeply interested in ML model interpretability and applying it to real-world problems.
 * ⚙️ Spending my time solving algorithmic programming questions and analyzing time complexities.
 * ♟️ In my free time, I play chess a lot.
@@ -19,7 +19,7 @@
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vacoder-iitg&bg_color=ffffff&color=0366d6&line=0366d6&point=24292e&area=true&hide_border=true&custom_title=Recent%20Contributions">
 </picture>
 </div>
----
+
 
 ### 🛠️ Tech Stack & Tools
 
