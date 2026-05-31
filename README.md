@@ -1,47 +1,33 @@
 # Hi there, I'm Vishwas Aditya Chauhan! 👋
 
-### 👨‍💻 About Me
-
-* 🎓 B.Tech Chemical Engineering student at IIT Guwahati.
-* 🤖 Machine Learning enthusiast focusing on model training and connecting with it real world.
-* ⚙️ Passionate about competitive programming in C++, numerical analysis, and exploring complex algorithms.
-* ♟️ When I'm not coding, I'm likely playing a steady grind on the chessboard with the London System or Caro-Kann.
+<div align="center">
+  <!-- Dynamic Typing Animation -->
+  <a href="https://github.com/vacoder-iitg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=27C93F&center=true&vCenter=true&width=600&lines=B.Tech+Chemical+Engineering+%40+IITG;Competitive+Programmer+(C%2B%2B);Full-Stack+Developer+(MERN+%7C+Next.js);Machine+Learning+(XGBoost+%7C+SHAP)" alt="Typing Animation" />
+  </a>
+</div>
 
 ---
 
-### 🧩 Daily Chess Puzzle
-*Test your tactical vision! Evaluate the board and click the dropdowns below to make your move.*
+### 👨‍💻 About Me
+
+* 🎓 Currently pursuing my B.Tech at IIT Guwahati.
+* 🤖 Deeply interested in ML model interpretability and applying it to the real world.
+* ⚙️ Spending my time solving algorithmic programming questions.
+* ♟️ In free time I also play chess a lot
+
+---
+
+### 📈 Live GitHub Activity
+
+*This graph automatically updates every time you push code, drawing your commit history dynamically!*
 
 <div align="center">
-  <h2><strong>White to Move - Mate in 1</strong></h2>
-  <!-- Using a reliable static FEN image renderer -->
-  <img src="https://www.chess.com/dynboard?fen=6k1/5ppp/8/8/8/8/5PPP/4R1K1%20w%20-%20-%200%201&board=green&piece=neo&size=3" alt="Chess Puzzle: Mate in 1" width="350"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vacoder-iitg&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ff5f56&area=true&hide_border=true">
+    <img alt="Vishwas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vacoder-iitg&bg_color=ffffff&color=0366d6&line=0366d6&point=24292e&area=true&hide_border=true">
+  </picture>
 </div>
-
-<br>
-
-<details>
-<summary> <strong>Play Move: h3</strong></summary>
-<br>
-<em>Incorrect.</em> While creating "luft" (breathing room) for your King is a solid defensive habit to avoid being mated yourself, you missed an immediate forced win! Black will respond with <code>h6</code> and escape the threat.
-<br><br>
-</details>
-
-<details>
-<summary> <strong>Play Move: Re8#</strong></summary>
-<br>
-<strong>🏆 Correct! CHECKMATE!</strong> 
-<br><br>
-This is a classic "Back-Rank Mate". Black's own pawns on f7, g7, and h7 trap their King on the 8th rank. By swinging the Rook to e8, you deliver an undefendable fatal blow. Rating +15!
-<br><br>
-</details>
-
-<details>
-<summary> <strong>Play Move: Kf1</strong></summary>
-<br>
-<em> Incorrect.</em> Centralizing the King is an excellent strategy for a prolonged endgame, but there is a much faster way to finish this game right now! Look at Black's weaknesses.
-<br><br>
-</details>
 
 ---
 
@@ -49,5 +35,4 @@ This is a classic "Back-Rank Mate". Black's own pawns on f7, g7, and h7 trap the
 
 **Languages:** C++, JavaScript, Python, MATLAB  
 **Frontend:** React, Next.js, HTML5, CSS3  
-**Backend & Database:** Node.js, Express, MongoDB, PostgreSQL  
-**Machine Learning:** XGBoost, SHAP, Optuna, Jupyter
+**Backend & Database:** Node.js, Express, MongoDB, PostgreSQL
