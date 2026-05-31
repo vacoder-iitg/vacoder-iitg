@@ -19,9 +19,9 @@
 *GitHub READMEs don't run JavaScript, so this is a community-driven chess game powered by clickable SVGs and a backend server. Click on a piece to make a move!*
 
 <div align="center">
-  <a href="https://readme-chess.marcizhu.com/">
-    <img src="https://readme-chess.marcizhu.com/board.svg" alt="Interactive Community Chess Board" />
-  </a>
+
+[![Interactive Community Chess Board](https://readme-chess.marcizhu.com/board.svg)](https://readme-chess.marcizhu.com/)
+
 </div>
 
 ---
@@ -38,10 +38,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/vacoder-iitg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vacoder-iitg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vishwas's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/vacoder-iitg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vacoder-iitg&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  </a>
+
+[![Vishwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vacoder-iitg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/vacoder-iitg)
+    
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vacoder-iitg&layout=compact&theme=tokyonight)](https://github.com/vacoder-iitg)
+
 </div>
