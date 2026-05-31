@@ -2,13 +2,6 @@
 
 ---
 
-
-<div align="center">
-
-[![Interactive Chess Pathfinder Preview](https://upload.wikimedia.org/wikipedia/commons/d/d7/Chess_board_opening_giuoco_piano.gif)](https://github.com/vacoder-iitg)
-
-</div>
-
 ---
 
 ### 👨‍💻 About Me
@@ -22,10 +15,13 @@
 
 ### 📈 Live GitHub Activity
 
-<div align="center">
+<<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vacoder-iitg&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ff5f56&area=true&hide_border=true">
-    <img alt="Vishwas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vacoder-iitg&bg_color=ffffff&color=0366d6&line=0366d6&point=24292e&area=true&hide_border=true">
+    <!-- Dark Mode: Terminal Green Line loading left-to-right -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vacoder-iitg&bg_color=0d1117&color=27c93f&line=27c93f&point=ffffff&area=true&hide_border=true&custom_title=Recent%20Contributions">
+    
+    <!-- Light Mode: Classic Blue Line loading left-to-right -->
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vacoder-iitg&bg_color=ffffff&color=0366d6&line=0366d6&point=24292e&area=true&hide_border=true&custom_title=Recent%20Contributions">
   </picture>
 </div>
 
