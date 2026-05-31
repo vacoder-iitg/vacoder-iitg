@@ -1,17 +1,17 @@
-# Hi there, I'm Vishwas Aditya Chauhan! 👋
+# Hi there, I'm Vishwas Aditya Chauhan! 
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🎓 Currently pursuing my B.Tech at IIT Guwahati.
-* 🤖 Deeply interested in ML model interpretability and applying it to real-world problems.
-* ⚙️ Spending my time solving algorithmic programming questions and analyzing time complexities.
-* ♟️ In my free time, I play chess a lot.
+*  Currently pursuing my B.Tech at IIT Guwahati.
+*  Deeply interested in ML model interpretability and applying it to real-world problems.
+*  Spending my time solving algorithmic programming questions and analyzing time complexities.
+*  In my free time, I play chess a lot.
 
 ---
 
-### 📈 Live GitHub Activity
+###  Live GitHub Activity
 
 <div align="center">
 <picture>
